@@ -1,8 +1,1 @@
-# Random
-#Just a test
-Wondering how things will go in the long run
-
-# How are you please 
-
-
-fjgkhkj
+Contains some of my data analysis on Kaggle.
