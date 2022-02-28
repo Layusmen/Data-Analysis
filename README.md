@@ -1,1 +1,1 @@
-Contains some of my data analysis on Kaggle.
+The section contains some of my data analysis project and PowerBi dashboards
